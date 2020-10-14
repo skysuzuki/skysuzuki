@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Skyler Suzuki
-- iOS Developer.
+- 🖥 iOS Developer.
 - 🔭 I’m currently working on an app to calculate liters for a surfboard
-- I'm currently looking for opportunities to work on iOS development team.
+- 👀 I'm currently looking for opportunities to work on iOS development team.
 - ⚡ Fun fact: I have a degree in game development and economics
