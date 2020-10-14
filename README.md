@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **skysuzuki/skysuzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+<a href="https://www.linkedin.com/in/skylersuzuki/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/skysuzuki">
+  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+### I am Skyler Suzuki
+- iOS Developer.
+- 🔭 I’m currently working on an app to calculate liters for a surfboard
+- I'm currently looking for opportunities to work on iOS development team.
+- ⚡ Fun fact: I have a degree in game development and economics
