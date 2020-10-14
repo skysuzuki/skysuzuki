@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="PNG" src="https://github.com/skysuzuki/skysuzuki/blob/main/8C144217-6539-497B-B595-5289F2147F79.png" />
 
 ### I am Skyler Suzuki
 - 🖥 iOS Developer.
